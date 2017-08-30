@@ -28,21 +28,13 @@
   },
   "interests": [
     {
-      "name": "bioinformatics",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "bioinformatics"
     },
     {
-      "name": "computational science",
-      "keywords": [
-      ]
+      "name": "computational science"
     },
     {
-      "name": "software engineering",
-      "keywords": [
-      ]
+      "name": "software engineering"
     }
   ],
   "skills": [
