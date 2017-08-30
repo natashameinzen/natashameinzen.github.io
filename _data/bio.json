@@ -70,7 +70,7 @@
       "gpa": "3.25",
       "courses": ["Python", "Java", "Data Structures and Algorithms", "Discrete Structures",
       ]
-    }
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
@@ -79,6 +79,6 @@
       "gpa": "",
       "courses": ["Software Engineering",
       ]
-    }
+    },
   ],
 }
