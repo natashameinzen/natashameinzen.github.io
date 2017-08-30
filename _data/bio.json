@@ -76,16 +76,16 @@
       "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "3.25",
-      "courses": [Python, Java, Data Structures and Algorithms, Discrete Structures
+      "courses": ["Python", "Java", "Data Structures and Algorithms", "Discrete Structures"
       ]
     }
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "term: Fall 2017 Exchange";
+      "term: Fall 2017 Exchange",
       "gpa": "",
-      "courses": [Software Engineering
+      "courses": ["Software Engineering"
       ]
     }
     
