@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Paper Dryer
-permalink: projects/paperdryer
+permalink: projects/Paper Dryer
 date: 2015-2016
 summary: Research project centered around adjusting a production process to make it more environmentally friendly.
 ---
