@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/battleship.png
+image: images/battleship.jpg
 title: Battleboard
 permalink: projects/battleboard
 date: 2017
