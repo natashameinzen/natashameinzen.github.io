@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Hide and Seek Champion since 1958: ;
+title: Hide and Seek Champion since 1958: Semicolon
 date: 2017-08-29
 labels:
   - Software Engineering
