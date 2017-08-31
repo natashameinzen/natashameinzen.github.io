@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/pulp.jpg
 title: Paper Dryer
 labels:
   - Permeability programs
@@ -10,12 +10,6 @@ date: 2015
 summary: Research project centered around adjusting a production process to make it more environmentally friendly.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 
 
 This research project was constructed to determine the most environmentally friendly drying technique used in paper product production, specifically in the pulp stage. I, along with a few other research assistants, were tasked with executing the same experiment, but with different variables, such as types of dryers and pulp concentration. Once we had completed the experiments, all the data was compiled to present to the head of the project.
