@@ -14,5 +14,4 @@ This program was created to organize a wide range of items and increase the effi
 
 This project was constructed for a CSCI 1933 data structures and algorithms class. It is similar to the foundations of many complex databases and gave me pertinent insight to the various methods of storing and retreiving data (ex. linked lists, arrays, sorting algorithms, etc).
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Source: <a href="https://github.com/natashameinzen/Celestial-Database">
