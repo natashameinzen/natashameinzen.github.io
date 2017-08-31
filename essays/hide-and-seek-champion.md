@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Hide and Seek Champion since 1958: ;
-date: 2017-08-31
+date: 2017-08-30
 labels:
   - Software Engineering
   - Learning
