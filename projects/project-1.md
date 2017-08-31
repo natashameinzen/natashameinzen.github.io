@@ -3,6 +3,8 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Paper Dryer
+labels:
+  - Permeability programs
 permalink: projects/Paper Dryer
 date: 2015
 summary: Research project centered around adjusting a production process to make it more environmentally friendly.
