@@ -17,4 +17,4 @@ Battleboards is a game that is similar to Battleship, except that it can be play
 I started this project by dividing it into smaller subsections, such as programming the boats, the board, and the moves. Once each individual section was complete, I compiled them together to create the entire game. The code is written in Java and users can play using the command line. This project strengthed my skills in project management, design, and implementation. 
 
  
-Code: https://github.com/natashameinzen/Battleboard
+Code: https://github.com/natashameinzen/Battleship
