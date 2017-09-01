@@ -83,16 +83,10 @@
     ],
    "work": [
     {
-      "position": "Lab Assistant",
-      "location": "University of Minnesota",
-      "date": "2015-2016",
-      "description": "computation programs used to execute calculations produced by experiments"
+      "position": "Lab Assistant"
     },
     {
-      "position": "Fan Relations Representative",
-      "location": "University of Minnesota",
-      "date": "2016-present",
-      "description": "use problem solving skills to help provide exceptional customer service"
+      "position": "Fan Relations Representative"
     }
     ]
 }
