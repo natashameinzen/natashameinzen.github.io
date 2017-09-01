@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Hide and Seek Champion Since 1958: The Semicolon
-date: 2015-08-26
+date: 2017-08-26
 labels:
   - Software Engineering
   - Learning
