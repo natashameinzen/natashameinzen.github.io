@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Hide and Seek Champion since 1958: Semicolon
-date: 2017-08-29
+title: Igniting the fire
+date: 2015-08-26
 labels:
   - Software Engineering
   - Learning
 ---
+
 
 As I learn new coding languages, I make internal notes in my head on how they are similar/dissimilar to the other languages I am familiar with. I think the dissimilarities list is never ending when comparing languages like Java and Python. As I learn Javascript, I realize the list of dissimilarities between Java and Javascript shortens while the similarities list lengthens (which is quite obvious given their names). That's not to say these are pro/con lists. Each language has its good qualities as well as its bad. For example, Python is a scripting language, so it is very easy to read and used as an introduction to computer science. However, it is slower and datatypes are introduced, which is an issue when using other languages. Javascript, on the other hand, is a more well known language and used in a significant amount of web development. However, it can get extremely complex and hard to sort through large amounts of code. As of right now, I personally do not have a preference as to which is better. 
 
