@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Hide and Seek Champion Since 1958: The Semicolon
 date: 2015-08-26
 labels:
   - Software Engineering
