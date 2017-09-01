@@ -82,12 +82,28 @@
       ]
     },
     ],
-   "work": [
+  "work": [
     {
-      "position": "Lab Assistant"
+      "company": "University of Minnesota",
+      "position": "Fan Relations Representative",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "summary": "Collected data pertinent to research",
+      "highlights": [
+        "Administrative work including answering emails, customer relations, and training",
+        "Communicated proficiently with customers, managers, and co-workers"
+      ]
     },
     {
-      "position": "Fan Relations Representative"
+      "company": "University of Minnesota",
+      "position": "Lab Assistant",
+      "startDate": "2015-09-01",
+      "endDate": "2016-05-14",
+      "summary": "Collected data pertinent to research",
+      "highlights": [
+        "Took precise and detailed measurements while making chemical solutions",
+        "Used compute programs such as LoggerPro, Mathematica, and Excel organize and compute complex data and execute calculations and sort through statistics"
+      ]
     }
     ]
 }
