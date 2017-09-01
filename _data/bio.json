@@ -75,7 +75,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "term": "Fall 2017 Exchange",
+      "startDate": "2017-09-01",
+      "endDate": "2017-12-16",
       "gpa": "",
       "courses": ["Software Engineering",
       ]
