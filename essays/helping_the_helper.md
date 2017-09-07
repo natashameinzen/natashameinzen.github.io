@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: Helping the Helper
+date: 2017-08-26
+labels:
+  - Software Engineering
+  - Learning
+---
+
 Growing up, the importance of asking the right questions was always stressed. My father studied electrical engineering in college and currently teaches high school math and computer science. He is an extremely analytical man, always taking the same approach to problems – assess the issue, think about all possible routes to solve said issue, enact the most efficient solution. If you ever got stuck, ask for help. However, you had better ask the right question, or you wouldn’t get the answer you needed. This annoyed me to no end. Why was asking “How do I solve this triple integral?” any different than “I am having trouble on taking the third integral of this equation. Do you have any pointers to solve this issue?”? For the first question, my dad would always answer “By using calculus”, to which I would reply by stomping out of the room, furious.
 
 As I have grown, I have transitioned to not only being the asker of questions, but also the answerer, and I finally have realized what my dad meant by asking the right question. Asking the right question decreases, or eliminates completely, all confusion of the question. The answerer doesn’t have to dig for more information, which saves on time and patience. This is especially true in computer science. There are so many individual pieces that must work together seamlessly for a program to work. Asking a very general question rarely solves a problem, unless one is purely curious about a surface level topic. Furthermore, questions are meant to teach, and are usually answered during the “volunteer time” of the answerer, meaning the answerer isn’t obligated to answer the question, especially if the asker has not put in much effort of their own. Take the question below as an example. The subject of this code was “Make this script work”, which is extremely demanding and could be taken offensively and give no insight as to what the question is.
