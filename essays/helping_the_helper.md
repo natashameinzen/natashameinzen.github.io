@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Helping the Helper
-date: 2017-08-26
+date: 2017-09-27
 labels:
   - Software Engineering
   - Learning
