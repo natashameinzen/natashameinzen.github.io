@@ -5,7 +5,9 @@ title: Making Group Projects Easier
 date: 2017-09-27
 labels:
   - Software Engineering
-  - Learning
+  - Javascript
+  - ESLint
+  - Coding Standards
 ---
 
 Everyone knows that group projects can be a pain. Finding time to all get together is hard enough, but then to have each person work on smaller pieces individually, then bring them all together to make a single, coherent project requires a lot of planning. It’s like a puzzle, except the pieces don’t fit together perfectly. Because each person completes their part of the project in an individualized way, it’s sometimes are to match one person’s piece to another. But somehow, once all the pieces are aligned, edges are smoothed, transitions are created, and the final project flows together flawlessly (hopefully). Coding is no different.
