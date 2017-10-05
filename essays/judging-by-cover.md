@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Judging a Website By Its Cover
+title: Judging by a cover
 date: 2017-10-4
 labels:
   - Software Engineering
