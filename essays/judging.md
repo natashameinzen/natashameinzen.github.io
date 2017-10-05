@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Judging by a cover
+title: Judging By the Cover
 date: 2017-10-4
 labels:
   - Software Engineering
