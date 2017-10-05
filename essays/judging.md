@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Judging By the Cover
-date: 2017-10-4
+date: 2017-10-3
 labels:
   - Software Engineering
   - UI Frameworks
