@@ -6,6 +6,8 @@ date: 2017-08-26
 labels:
   - Software Engineering
   - Learning
+  - Meteor
+  - MongoDB
 ---
 
 Meteor: a small body of matter from outer space that enters the earth’s atmosphere, becoming incandescent as a result of friction and appearing as a streak of light (dictionary.com). Or, if you ask a student in ICS 314, the source of a lot of frustration and appreciation combined into one. Meteor is both a blessing and a curse. It offers many perks in the field of application architecture and provides a solid grounding for a client-server application. However, Meteor also proves to have its own realm of challenges as well.
