@@ -1,13 +1,17 @@
 ---
 layout: project
 type: project
-image: images/pulp.jpg
-title: Paper Dryer
+image: images/landing_page.png
+title: Island Wanderer
 labels:
-  - Permeability programs
-permalink: projects/Paper Dryer
-date: 2015
-summary: Research project centered around adjusting a production process to make it more environmentally friendly.
+  - Meteor
+  - MongoDB
+  -Javascript
+  -HTML/CSS
+  -Project Design
+permalink: projects/Island Wanderer
+date: 2017
+summary: Web application that allows University of Hawaii students to connect with other students through outdoor adventures.
 ---
 
 
