@@ -16,8 +16,6 @@ summary: Web application that allows University of Hawaii students to connect wi
 ---
 <img src="/images/message_page.png" style="float: right; width: 23%; margin-right: 1%; margin-bottom: .8em;" >
 <img src="/images/profile_page.png" style="float: right; width: 23%; margin-right: 1%; margin-bottom: .6em;" >
-<img src="/images/addEvent.png" style="float: left; width: 23%; margin-right: 1%; margin-bottom: 0.5em;" >
-<img src="/images/admin_unauthorized.png" style="float: left; width: 23%; margin-right: 1%; margin-bottom: 0.5em;" >
 
 
 
