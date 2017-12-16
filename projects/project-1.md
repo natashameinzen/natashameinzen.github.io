@@ -3,15 +3,15 @@ layout: project
 type: project
 image: images/landing_page.png
 title: Island Wanderer
-labels:
-  - Meteor
-  - MongoDB
-  -Javascript
-  -HTML
-  - CSS
-  - Project Design
 permalink: projects/Island Wanderer
 date: 2017
+labels:
+  -Meteor
+  -MongoDB
+  -Javascript
+  -HTML
+  -CSS
+  -Project Design
 summary: Web application that allows University of Hawaii students to connect with other students through outdoor adventures.
 ---
 
