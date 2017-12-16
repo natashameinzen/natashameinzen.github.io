@@ -14,7 +14,7 @@ labels:
   - Project Design
 summary: Web application that allows University of Hawaii students to connect with other students through outdoor adventures.
 ---
-<img src="images/message_page.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="/images/message_page.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" >
 <img class="ui medium right floated rounded image" src="../images/battleboard.png">
 <img class="ui medium right floated rounded image" src="../images/battleboard.png">
 <img class="ui medium left floated rounded image" src="../images/battleboard.png">
