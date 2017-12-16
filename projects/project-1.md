@@ -14,7 +14,11 @@ labels:
   - Project Design
 summary: Web application that allows University of Hawaii students to connect with other students through outdoor adventures.
 ---
-<img src="/images/message_page.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="/images/message_page.png" style="float: right; width: 23%; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="/images/profile_page.png" style="float: right; width: 23%; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="/images/addEvent.png" style="float: left; width: 23%; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="/images/admin_unauthorized.png" style="float: left; width: 23%; margin-right: 1%; margin-bottom: 0.5em;" >
+
 
 
 <a href="https://islandwanderer.github.io/">Island Wanderer</a> is the perfect website for University of Hawaii students who want to explore the islands of Hawaii with other students. The Hawaiian Islands have a lot to offer, from hiking to snorkeling to luaus to relaxing at the beach. However, sometimes it can be hard to organize a group of people to go explore these places. Island Wanderer is here to solve this problem. Students can form groups to go on adventures together, creating countless unforgettable memories while meeting new people along the way.
