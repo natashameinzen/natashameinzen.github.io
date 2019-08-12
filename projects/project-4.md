@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing_page.png
+image: images/ustudy home page.png
 title: USTUDY
 permalink: projects/USTUDY
 date: 2018
