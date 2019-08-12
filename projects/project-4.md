@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ustudy home page.png
+image: images/ustudy home page.PNG
 title: USTUDY
 permalink: projects/USTUDY
 date: 2018
@@ -14,8 +14,8 @@ labels:
   - Project Design
 summary: User Interface Project for an app that allows students to better find, communicate, and plan with various study groups on and around campus.
 ---
-<img src="/images/message_page.png" style="float: right; width: 23%; margin-right: 1%; margin-bottom: .8em;" >
-<img src="/images/profile_page.png" style="float: right; width: 23%; margin-right: 1%; margin-bottom: .6em;" >
+<img src="/images/ustudy ideation.PNG" style="float: right; width: 23%; margin-right: 1%; margin-bottom: .8em;" >
+<img src="/images/ustudy goals and implications.PNG" style="float: right; width: 23%; margin-right: 1%; margin-bottom: .6em;" >
 
 
 The purpose of the UStudy application was to create an application that was not yet in existence that would help students at the University of Minnesota using User Interface and Design practices. To begin the process, my teammembers and I brainstormed various app ideas. After much deliberation, we settled upon an app that helped students find and form study groups. Once the idea was formed, we each performed a series of interviews on a diverse set of students to better understand what they felt would be beneficial to see in an app. We analyzed the transcripts from all of the interviews and found 5 main implications that our application must meet.
