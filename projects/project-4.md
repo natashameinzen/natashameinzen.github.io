@@ -29,5 +29,5 @@ The next step of our process was to actually create the application. We first cr
 
 Finally, in order to understand the strengths and weaknesses of our completed application, we had another diverse set of University of Minnestoa students use our apps and collected feedback. We asked them to perform both "think aloud" walk throughs as well as summative tasks to obtain time-to-complete-a-task data, misstep data, and overall feedback. From those analytics, we were able to determine futuristic modifications to the User Interface Design to better the application.
 
-<img src="/images/ustudy quantitative data.PNG"  style="width: 50%;">
+<img src="/images/ustudy quantitative data.PNG"  style="width: 100%;">
 
