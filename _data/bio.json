@@ -5,7 +5,7 @@
     "email": "meinz015@umn.edu",
     "website": "https://natashameinzen.github.io",
     "picture": "https://natashameinzen.github.io/images/Professional (2).png",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Computer Science and Engineering at the University of Minnesota. I expect to graudate in Fall of 2019 with a focus in computational science.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Computer Science and Engineering at the University of Minnesota. I expect to graudate in Fall of 2019 with minors in German and Astrophysics.",
     "location": {
       "address": "",
       "postalCode": "55414",
@@ -28,10 +28,10 @@
   },
   "interests": [
     {
-      "name": "Bioinformatics"
+      "name": "Product/Project Management"
     },
     {
-      "name": "Computational science"
+      "name": "Front End Development"
     },
     {
       "name": "Software engineering"
@@ -57,7 +57,7 @@
         "Meteor/MongoDB",
         "JSFiddle",
         "Mathematica",
-        "Matlab"
+        "Git"
       ]
     }
   ],
@@ -68,8 +68,8 @@
       "studyType": "B.S.",
       "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "3.25",
-      "courses": ["Python", "Java", "Data Structures and Algorithms", "Discrete Structures",
+      "gpa": "3.1",
+      "courses": ["Python", "Java", "Data Structures and Algorithms", "Discrete Structures", "Internet Programming", "Software Engineering", "User Interface Design"
       ]
     },
     {
