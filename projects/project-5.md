@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/ustudy home page.PNG
-title: USTUDY
-permalink: projects/USTUDY
-date: 2018
+image: images/website-welcom.PNG
+title: Website Design
+permalink: projects/Website Design
+date: 2019
 labels:
   - User Interface
   - Application Development
