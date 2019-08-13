@@ -12,14 +12,14 @@ labels:
   - HTML
   - CSS
   - Project Design
-summary: Used web architecture and protocols to create a web application on both the server-side and client-side: full stack web development.
+summary: 
 ---
 <img src="/images/distance.PNG"  style="width: 100%;">
 <img src="/images/form-map.PNG"  style="width: 100%;">
 <img src="/images/schedule.PNG"  style="width: 100%;">
 <img src="/images/widget.PNG"  style="width: 100%;">
 
-
+Used web architecture and protocols to create a web application on both the server-side and client-side: full stack web development.
   - Network Programming
   - dynamic HTML
   - Web Architecture
