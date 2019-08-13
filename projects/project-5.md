@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/website-welcom.PNG
+image: images/website-welcome.PNG
 title: Website Design
 permalink: projects/Website Design
 date: 2019
