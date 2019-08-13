@@ -1,11 +1,25 @@
 ---
 layout: project
 type: project
-image: images/welcome-website.PNG
+image: images/ustudy home page.PNG
 title: USTUDY
 permalink: projects/USTUDY
 date: 2018
 labels:
+  - User Interface
+  - Application Development
+  - Javascript
+  - HTML
+  - CSS
+  - Project Design
+summary: Used web architecture and protocols to create a web application on both the server-side and client-side: full stack web development.
+---
+<img src="/images/distance.PNG"  style="width: 100%;">
+<img src="/images/form-map.PNG"  style="width: 100%;">
+<img src="/images/schedule.PNG"  style="width: 100%;">
+<img src="/images/widget.PNG"  style="width: 100%;">
+
+
   - Network Programming
   - dynamic HTML
   - Web Architecture
@@ -17,16 +31,6 @@ labels:
   - Node.js
   - XML
   - Database
-
-summary: Used web architecture and protocols to create a web application on both the server-side and client-side: full stack web development.
----
-<img src="/images/distance.PNG"  style="width: 100%;">
-<img src="/images/form-map.PNG"  style="width: 100%;">
-<img src="/images/schedule.PNG"  style="width: 100%;">
-<img src="/images/widget.PNG"  style="width: 100%;">
-
-
-
 
 
 Schedule Page
